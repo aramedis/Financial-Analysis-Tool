@@ -6,11 +6,11 @@ This tool outputs the following financial analyses to any attached dataset.js in
 
   Financial Analysis
   ----------------------------
-  Total Months: x
-  Total: $x
-  Average  Change: $x
-  Greatest Increase in Profits: MM-YYYY ($x)
-  Greatest Decrease in Profits: MM-YYYY ($x)
+ * Total Months: x
+ * Total: $x
+ * Average  Change: $x
+ * Greatest Increase in Profits: MM-YYYY ($x)
+ * Greatest Decrease in Profits: MM-YYYY ($x)
 
 ## Installation
 
